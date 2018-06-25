@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0318E37220DB03EB008360E5 /* ReminderTableStepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0318E37120DB03EB008360E5 /* ReminderTableStepViewController.swift */; };
+		0318E37320DB03EB008360E5 /* ReminderTableStepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0318E37120DB03EB008360E5 /* ReminderTableStepViewController.swift */; };
 		0334415420995328009B97A9 /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0334415320995328009B97A9 /* TodayViewController.swift */; };
 		0334415620995CCD009B97A9 /* TaskBrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0334415520995CCD009B97A9 /* TaskBrowserViewController.swift */; };
 		0349535520981C89006A05B1 /* ProgressCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0349535420981C89006A05B1 /* ProgressCircleView.swift */; };
@@ -368,6 +370,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0318E37120DB03EB008360E5 /* ReminderTableStepViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ReminderTableStepViewController.swift; path = "View Controllers/ReminderTableStepViewController.swift"; sourceTree = "<group>"; };
 		0334415320995328009B97A9 /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TodayViewController.swift; path = "View Controllers/TodayViewController.swift"; sourceTree = "<group>"; };
 		0334415520995CCD009B97A9 /* TaskBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TaskBrowserViewController.swift; path = "View Controllers/TaskBrowserViewController.swift"; sourceTree = "<group>"; };
 		0349535420981C89006A05B1 /* ProgressCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ProgressCircleView.swift; path = "Custom Views/ProgressCircleView.swift"; sourceTree = "<group>"; };
@@ -515,6 +518,7 @@
 				6076F2CA20A6680B00F6235E /* ConsentViewController.swift */,
 				0354809E20BF3B6400B757AB /* StudyBurstViewController.swift */,
 				03F3447620C9ED62002062D6 /* StudyBurstCompletionViewController.swift */,
+				0318E37120DB03EB008360E5 /* ReminderTableStepViewController.swift */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -1195,6 +1199,7 @@
 				F8C58DB220AF4823001C7B7F /* TodayScheduleManager.swift in Sources */,
 				F8C58DD620AF8CCC001C7B7F /* SurveyScheduleManager.swift in Sources */,
 				F85459B6208FA77400D37243 /* UIColor+mPowerTheme.swift in Sources */,
+				0318E37320DB03EB008360E5 /* ReminderTableStepViewController.swift in Sources */,
 				F8078F4420AE078A00757F42 /* DataSourceManager.swift in Sources */,
 				F8C58DFC20AFA2FD001C7B7F /* ActivityManager.swift in Sources */,
 				F88E8DFE20ADEE2600117A99 /* RegistrationWaitingViewController.swift in Sources */,
@@ -1214,6 +1219,7 @@
 				608241DB2093D9A90026E843 /* RegistrationIntroViewController.swift in Sources */,
 				0334415420995328009B97A9 /* TodayViewController.swift in Sources */,
 				60F45524209CF10100C532A0 /* SignInTaskViewController.swift in Sources */,
+				0318E37220DB03EB008360E5 /* ReminderTableStepViewController.swift in Sources */,
 				F8D3E77A2062F1B900CD351C /* AppDelegate.swift in Sources */,
 				0334415620995CCD009B97A9 /* TaskBrowserViewController.swift in Sources */,
 				F8C58DCA20AF5E86001C7B7F /* StudyBurstScheduleManager.swift in Sources */,
